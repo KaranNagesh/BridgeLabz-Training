@@ -23,5 +23,26 @@ public class Student {
 	public void setCGPA(Double cGPA) {
 		CGPA = cGPA;
 	}
+
+		
+	class PostgraduateStudent extends Student{
+		public void display() {
+			System.out.println("Name : "+name);
+			System.out.println("Roll number : "+rollNumber);
+			System.out.println("CGPA : "+getCGPA());
+		}
+	}
+
+
+	public static void main(String agrs[]) {
+	Student sc = new Student();
+	Student.PostgraduateStudent p = sc.new PostgraduateStudent();
+	p.rollNumber = 101;
+	p.name = "bob";
+	p.setCGPA(8.5);
+
+	p.display();
+
+	}
 	
 }
