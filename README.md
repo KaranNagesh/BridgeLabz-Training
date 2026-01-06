@@ -128,9 +128,6 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
-### Week 2 : Object Oriented Programming 
-
----
 
 ### 🗓 Day 8 – Extra Concepts
 *(Date: 23-Dec-2025)*
