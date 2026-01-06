@@ -127,8 +127,8 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Day 7 – Built-in Functions](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
-🗓 Day 11 – Scenario-Based Java Problems
-(Date: 26-Dec-2025)
+### 🗓 Day 11 – Scenario-Based Java Problems
+*(Date: 26-Dec-2025)*
 
 Coffee Counter Chronicles
 Maya's BMI Tracker
