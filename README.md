@@ -160,7 +160,9 @@ BridgeLabz-Training/
 - Learned the difference between instance variables and class variables.
 - Practiced access modifiers (public, protected, private) and understood their scope.
 - Practiced Scenario Based Problems
-= Practiced LeetCode Problem 🔗 Code Link: 👉 [Day 10 – Java-Oops(Constructors & Access Modifiers)](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructorsandinstances/level1)
+= Practiced LeetCode Problem
+
+🔗 Code Link: 👉 [Day 10 – Java-Oops(Constructors & Access Modifiers)](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructorsandinstances/level1)
 
  👉 Day 10 – [Java-Scenario-Based-Programs](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
 
@@ -197,6 +199,7 @@ BridgeLabz-Training/
   - Clean and readable code structure
 - Improved debugging skills and code readability.
 
+
 🔗 Code Link: 👉 [Day 11 – Scenario-Based Programs ](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 👉 [Day 11 – Java KeyWords](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/javakeywords)
 
@@ -227,6 +230,8 @@ BridgeLabz-Training/
 
   - Class diagrams (conceptual understanding)
   - Logical method responsibilities
+ 
+    
 🔗 Code Link: 👉 [Day 12 - Scenario-Based Question](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 👉 [Day 12 - Object Modelling](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodelling)
@@ -262,5 +267,44 @@ BridgeLabz-Training/
   - Vehicle → Electrical Vehicle
   - Student → Teacher → Staff
 🔗 Code Link:
+
 👉 Day 13 – [Inheritance & Types of Inheritance](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inheritance)
+
+---
+
+### 📅 Day 14 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
+(Date: 01-Jan-2026)
+
+# 📘 Topics Covered
+- Learned and implemented Encapsulation:
+
+  - Used private variables to protect data.
+  - Applied getters and setters to provide controlled access.
+ 
+- Understood Polymorphism concepts:
+  - Method overloading (compile-time polymorphism).
+  - Method overriding (runtime polymorphism).
+  -Achieved flexible and reusable code using dynamic method dispatch.
+
+- Studied Interfaces:
+  - Used to achieve multiple inheritance in Java.
+  - Enforced method contracts across implementing classes.
+
+    
+- Learned Abstract Classes:
+
+  - Used for abstraction by defining abstract and non-abstract methods.
+  - Enabled partial implementation and code reuse.
+    
+-Implemented practical programs focusing on:
+
+  - Object-oriented design principles.
+  - Real-world modeling using OOP concepts.
+  - Clean and maintainable code structure.
+  - Pushed all implementations to the GitHub repository.
+
+🔗 Code Link:
+👉 Day 14 – [Encapsulation, Interfaces, Abstract Classes & Polymorphism](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/encapsulationandpolymorphism)
+
+---
 
