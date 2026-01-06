@@ -52,6 +52,8 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 3 – Programming Elements](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
+
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
 *(Date: 19-Dec-2025)*
 
@@ -94,35 +96,50 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 – Strings & Methods  
-*(Date: 22-Dec-2025)*
+### 📅 Day 6 – Java Methods
+(Date: 20-Dec-2025)
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
 - Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
+
+  - User-defined and reusable methods
+  - Passing parameters and returning values
+  - Recursive methods
+  - Static and library methods
+- Solved practice problems using methods.
+
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+👉 [Day 6 – Java Methods](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-*(Date: 23-Dec-2025)*
+---
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+### 📅 Day 7 – Java Strings  
+*(Date: 22-Dec-2025)*
+
+- Studied Java strings and exception handling:
+  - Creating and manipulating strings
+  - String arrays and built-in methods
+  - Exception types and hierarchy
+- Solved practice problems using strings.
+- ommitted and pushed solutions to the repository
 
 🔗 *Code Link:*  
-👉 [Day 7 – Built-in Functions](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+👉 [Day 7 – Java Strings](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
+---
+### Week 2 : Object Oriented Programming 
+
+---
+
+### 🗓 Day 8 – Extra Concepts
+*(Date: 23-Dec-2025)*
+
+- Studied concepts of String, Built-in function, Date and time
+  - Worked on String handling problems
+  - Worked on Built-in funtions problems
+  - Done date and time concepts and problems
+    
+🔗 Code: [Extra concepts](https://github.com/KaranNagesh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+---
