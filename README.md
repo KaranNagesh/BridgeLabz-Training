@@ -175,3 +175,19 @@
 ---
 
 
+### 📅 Day 15 – Scenario-Based Programming using OOP Concepts
+*(Date: 02-Jan-2026)*
+
+# 📘 Topics Covered
+- Implemented Encapsulation through real-world scenarios:
+
+  - Used private data members to protect sensitive information.
+  - Applied getters and setters to validate and control data access.
+  - Ensured data integrity by restricting direct object manipulation.
+    
+- Applied Polymorphism in scenario-based problems:
+  - Used method overriding to achieve runtime polymorphism.
+  - Demonstrated dynamic method dispatch using parent class references.
+  - Improved flexibility and scalability of code design.
+ 
+    
