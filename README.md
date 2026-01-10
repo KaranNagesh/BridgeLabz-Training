@@ -401,3 +401,30 @@ BridgeLabz-Training/
    - Studied internal working of HashMap:
 🔗 Code Link:
 👉 Day 17 – [Stack, Queue & HashMap Implementations](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-code-base/JavaDsaConcepts/src)
+
+
+---
+
+### 📅 Day 18 – Sorting Algorithms (Core & Advanced)
+*(Date: 05-Jan-2026)*
+
+## 📘 Topics Covered
+ - Studied the importance of Sorting Algorithms:
+  - Organizing data efficiently for faster searching, processing, and analysis.
+  - Compared algorithms based on time complexity, space usage, and stability.
+
+    
+# 🔹 Core Sorting Algorithms
+ - Bubble Sort
+ - Insertion Sort
+ - Merge Sort (Divide & Conquer)
+ - Quick Sort (Divide & Conquer)
+ - Heap Sort
+ - Selection Sort
+
+   
+🔗 Code Link:
+👉 Day 18 – [Sorting Algorithms Implementations](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-code-base/JavaDsaConcepts/src/sorting)
+
+
+---
