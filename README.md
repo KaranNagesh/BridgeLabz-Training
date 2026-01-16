@@ -462,3 +462,10 @@ Focused on Java best practices for string handling and file I/O, along with Line
 
 ---
 
+# Day 21 – Scenario-Based Practice
+📅 (Date: 09-Jan-2026) Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+
+🔗 Code Link:
+[Day - 21 Java: Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
+---
