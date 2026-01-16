@@ -367,10 +367,10 @@ BridgeLabz-Training/
 ---
 
 
-### 📅 Day 17 – Stack, Queue & Hashing Fundamentals
+# 📅 Day 17 – Stack, Queue & Hashing Fundamentals
 *(Date: 04-Jan-2026)*
 
-# 📘 Topics Covered
+## 📘 Topics Covered
 
  - Studied Stack Data Structure (LIFO):
    - Understood core operations: push, pop, peek, isEmpty.
@@ -452,3 +452,13 @@ Focused on Java best practices for string handling and file I/O, along with Line
 👉 Day 19 – [Searching Algorithms Implementation](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-code-base/JavaDsaConcepts/src/linearandbinartsearch)
 
 ---
+
+# Day 20 – Scenario-Based Practice
+
+📅 (Date: 08-Jan-2026) Solved 2 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+
+🔗 Code Link:
+[Day - 20 Java: Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
+---
+
