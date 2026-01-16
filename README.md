@@ -469,3 +469,11 @@ Focused on Java best practices for string handling and file I/O, along with Line
 [Day - 21 Java: Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
 
 ---
+
+# Day 22 – DSA Scenario-Based Problem Solving
+📅 Date: (10-Jan-2026) Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying DSA concepts to real-world problem statements Strengthened logical thinking and approach selection for efficient solutions
+
+🔗 Code Link:
+[Day - 22 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+---
