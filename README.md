@@ -478,11 +478,24 @@ Focused on Java best practices for string handling and file I/O, along with Line
 
 ---
 
-Day 23 – DSA & OOps Scenario-Based Practice
+# Day 23 – DSA & OOps Scenario-Based Practice
 📅 (Date: 12-Jan-2026) Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying core linear and hash-based data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
 
 🔗 Code Link:
-Day - 23 Java: [Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+Day - 23 Java: 
+[OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
+[DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+---
+
+# Day 24 – DSA & OOps Scenario-Based Practice
+📅 (Date: 13-Jan-2026) Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying core linear and hash-based data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 2 OOps scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+
+🔗 Code Link:
+Day - 24 Java:
+[OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
 [DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
 
 ---
