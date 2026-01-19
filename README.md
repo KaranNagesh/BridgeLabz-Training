@@ -499,3 +499,12 @@ Day - 24 Java:
 [DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
 
 ---
+
+
+# Day 25 – Java Generics (Type Parameters, Bounds & Wildcards) & DSA Scenario-Based Practice(sorting)
+📅 (Date: 15-Jan-2026) Learned Java Generics to write type-safe, reusable, and flexible code Understood how generics help eliminate runtime type errors Implemented generic classes, generic methods, bounded types, and wildcards Designed a real-world Flight Scheduling System using generics Strengthened understanding of compile-time type safety Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying core sorting based data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+
+🔗 Code Link:
+Day - 25 [Java Generics DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/generics)
+
+---
