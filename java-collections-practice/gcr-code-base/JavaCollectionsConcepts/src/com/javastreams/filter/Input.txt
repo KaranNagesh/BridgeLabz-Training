@@ -1,0 +1,3 @@
+THIS Is A SAMPLE Text FILE.
+JAVA STREAMS ARE POWERFUL.
+Filter Streams Example.
