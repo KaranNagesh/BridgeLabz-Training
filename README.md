@@ -529,3 +529,25 @@ Day - 27 [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLab
 [DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
 
 ----
+
+# Day 28 – Java I/O Streams, DSA & OOPs Scenario-Based Practice
+📅 (Date: 19-Jan-2026) Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 1 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+
+🔗 Code Link:
+Day - 28 –  [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
+[DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+[Java I/O Streams](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/javastreams)
+
+---
+
+# Day 29 – Exception Handling in Java and DSA Scenario-Based Practice
+📅 (Date: 20-Jan-2026) Learned Java Exception Handling to manage runtime and compile-time errors Studied the complete exception hierarchy Practiced handling checked, unchecked, and custom exceptions Implemented try-catch, finally, throw, throws, nested try blocks Used try-with-resources for efficient resource management Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+
+🔗 Code Link:
+Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
+
+[DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+---
