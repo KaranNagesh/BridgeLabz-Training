@@ -508,3 +508,24 @@ Day - 24 Java:
 Day - 25 [Java Generics DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/generics)
 
 ---
+
+# Day 26 – DSA Scenario-Based Practice
+📅 (Date: 16-Jan-2026) Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
+
+🔗 Code Link:
+Day - 26 [Java: List Queue Set Map](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com)
+
+🔗 Code Link:
+Day - 26 – [DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+---
+
+# Day 27 – DSA & OOPs Scenario-Based Practice
+📅 (Date: 17-Jan-2026) Solved 4 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 2 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+
+🔗 Code Link:
+Day - 27 [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
+
+[DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+----
