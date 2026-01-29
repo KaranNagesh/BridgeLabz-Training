@@ -1,3 +1,0 @@
-Java is powerful and Java is popular.
-Streams in Java make file handling easy.
-Java Java Streams streams streams.

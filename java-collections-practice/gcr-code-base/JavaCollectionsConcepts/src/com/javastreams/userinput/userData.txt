@@ -1,3 +1,0 @@
-Name: karan
-Age: 21
-Favorite Language: java
