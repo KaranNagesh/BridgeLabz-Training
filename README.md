@@ -565,3 +565,18 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 [DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
 
 ---
+
+# Day 30 – Java Regular Expressions (Regex) & JUnit Testing and DSA Scenario-Based Practice(Sorting + tree(bst))
+
+📅 (Date: 21-Jan-2026) Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting and tree(BST) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+
+🔗 Code Link:
+[Day - 30 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+🔗 Code Link:
+[Day 30 – (Regex) & JUnit](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
+
+🔗 Code Link:
+[Day 30 – JUnit Testing](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/tests/junit)
+
+---
