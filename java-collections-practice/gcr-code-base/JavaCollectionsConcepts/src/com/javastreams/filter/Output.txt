@@ -1,3 +1,0 @@
-this is a sample text file.
-java streams are powerful.
-filter streams example.
