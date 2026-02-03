@@ -580,3 +580,15 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 [Day 30 – JUnit Testing](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/tests/junit)
 
 ---
+
+# Day 31 – Reflection & Annotations in Java and DSA Scenario-Based Practice(tree(AVL))
+
+📅 (Date: 22-Jan-2026) Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime. Accessed and modified private fields and methods using the Reflection API. Created objects dynamically and invoked methods without using the new keyword. Explored dynamic proxies and runtime method interception used in frameworks like Spring. Studied built-in and meta-annotations such as @Override, @Retention, and @Target. Created and processed custom annotations for logging, validation, and framework integration. Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying tree(AVL) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+
+🔗 Code Link:
+[Day - 31 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
+
+🔗 Code Link:
+[Day 31 – Reflection & Annotations](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
+
+---
