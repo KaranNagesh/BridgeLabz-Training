@@ -530,22 +530,11 @@ Day - 27 [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLab
 
 ----
 
-# Day 30 – Java Regular Expressions (Regex) & JUnit Testing and DSA Scenario-Based Practice(Sorting + tree(bst))
 
-📅 (Date: 21-Jan-2026) Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting and tree(BST) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
-
-🔗 Code Link:
-[Day - 30 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
-
-🔗 Code Link:
-[Day 30 – (Regex) & JUnit](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regexandjunit)
-
-🔗 Code Link:
-[Day 30 – JUnit Testing](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/tests/junit)
-
----
 # Day 28 – Java I/O Streams, DSA & OOPs Scenario-Based Practice
-📅 (Date: 19-Jan-2026) Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 1 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
+*📅 (Date: 19-Jan-2026)* 
+
+Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving Solved 1 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems
 
 🔗 Code Link:
 Day - 28 –  [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src)
@@ -557,7 +546,9 @@ Day - 28 –  [OOPs-Scenario-Based Practice](https://github.com/KaranNagesh/Brid
 ---
 
 # Day 29 – Exception Handling in Java and DSA Scenario-Based Practice
-📅 (Date: 20-Jan-2026) Learned Java Exception Handling to manage runtime and compile-time errors Studied the complete exception hierarchy Practiced handling checked, unchecked, and custom exceptions Implemented try-catch, finally, throw, throws, nested try blocks Used try-with-resources for efficient resource management Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+*📅 (Date: 20-Jan-2026)*
+
+Learned Java Exception Handling to manage runtime and compile-time errors Studied the complete exception hierarchy Practiced handling checked, unchecked, and custom exceptions Implemented try-catch, finally, throw, throws, nested try blocks Used try-with-resources for efficient resource management Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
 
 🔗 Code Link:
 Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptions)
@@ -568,7 +559,9 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 
 # Day 30 – Java Regular Expressions (Regex) & JUnit Testing and DSA Scenario-Based Practice(Sorting + tree(bst))
 
-📅 (Date: 21-Jan-2026) Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting and tree(BST) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+*📅 (Date: 21-Jan-2026)*
+
+Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java Solved 5 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting and tree(BST) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
 
 🔗 Code Link:
 [Day - 30 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
@@ -583,7 +576,8 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 
 # Day 31 – Reflection & Annotations in Java and DSA Scenario-Based Practice(tree(AVL))
 
-📅 (Date: 22-Jan-2026) Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime. Accessed and modified private fields and methods using the Reflection API. Created objects dynamically and invoked methods without using the new keyword. Explored dynamic proxies and runtime method interception used in frameworks like Spring. Studied built-in and meta-annotations such as @Override, @Retention, and @Target. Created and processed custom annotations for logging, validation, and framework integration. Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying tree(AVL) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+*📅 (Date: 22-Jan-2026)*
+Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime. Accessed and modified private fields and methods using the Reflection API. Created objects dynamically and invoked methods without using the new keyword. Explored dynamic proxies and runtime method interception used in frameworks like Spring. Studied built-in and meta-annotations such as @Override, @Retention, and @Target. Created and processed custom annotations for logging, validation, and framework integration. Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying tree(AVL) data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
 
 🔗 Code Link:
 [Day - 31 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
@@ -594,8 +588,9 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 
 ---
 
-Day 32 – CSV Data Handling in Java and Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
-📅 (Date: 23-Jan-2026) Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
+# Day 32 – CSV Data Handling in Java and Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+*📅 (Date: 23-Jan-2026)*
+Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
 Covered key concepts including:
 
 Reading and writing CSV files using BufferedReader/Writer
@@ -603,7 +598,9 @@ Handling CSV data efficiently with OpenCSV
 Mapping CSV records to Java objects (CsvToBean)
 Validating CSV fields using regex and data checks
 Solved 5 real-world, scenario-based Java problems Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions Designed solutions close to enterprise-level applications Focused on file processing, data validation, parsing, indexing, and summarization
+
 🔗 Code Link:
+
 [Day - 32 CSV Handling Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams/gcr-code-base/javaiostreams/src/main/java/javaiostreams/com/csv)
 
 🔗 Code Link:
