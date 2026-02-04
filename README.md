@@ -588,7 +588,25 @@ Day 29 – [Exception Handling](https://github.com/KaranNagesh/BridgeLabz-Traini
 🔗 Code Link:
 [Day - 31 – DSA Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBased/src)
 
+
 🔗 Code Link:
 [Day 31 – Reflection & Annotations](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflectionandannotation)
+
+---
+
+Day 32 – CSV Data Handling in Java and Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+📅 (Date: 23-Jan-2026) Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
+Covered key concepts including:
+
+Reading and writing CSV files using BufferedReader/Writer
+Handling CSV data efficiently with OpenCSV
+Mapping CSV records to Java objects (CsvToBean)
+Validating CSV fields using regex and data checks
+Solved 5 real-world, scenario-based Java problems Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions Designed solutions close to enterprise-level applications Focused on file processing, data validation, parsing, indexing, and summarization
+🔗 Code Link:
+[Day - 32 CSV Handling Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams/gcr-code-base/javaiostreams/src/main/java/javaiostreams/com/csv)
+
+🔗 Code Link:
+[Day - 32 – Collections Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training)
 
 ---
