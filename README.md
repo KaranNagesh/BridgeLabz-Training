@@ -621,6 +621,33 @@ Validating CSV fields using regex and data checks
 
 Solved 5 real-world, scenario-based Java problems Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions Designed solutions close to enterprise-level applications Focused on file processing, data validation, parsing, indexing, and summarization
 🔗 Code Link:
-[Day - 33 JSOM Handling Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams/gcr-code-base/javaiostreams/src/main/java/javaiostreams/com/json)
+[Day - 33 JSON Handling Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams/gcr-code-base/javaiostreams/src/main/java/javaiostreams/com/json)
+
+---
+
+# Day 34 – Lambdas, Method References & Scenario-Based Problems
+📅 (Date: 27-Jan-2026)
+
+Practiced functional programming concepts in Java using Lambda Expressions and Method References to write clean, concise, and readable code.
+
+
+Covered:
+
+Lambda expressions and functional interfaces
+Method references (static, instance, constructor)
+Stream-based filtering and transformations
+Effective use of predicates, consumers, and functions
+
+
+Solved real-world scenario-based problems involving advanced Java concepts:
+
+HealthCheckPro – Used custom annotations and reflection to scan API methods and auto-generate metadata/documentation
+MarkMate – Processed student marks from CSV files and generated JSON report cards with totals, averages, and grades
+EventTracker – Built an audit system using annotations and reflection to generate structured JSON logs for user actions
+
+Focused on practical usage of Annotations, Reflection, CSV & JSON data handling, and exception-safe design patterns.
+
+🔗 Code Link:
+[Day - 34 Lambda & Method Reference Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/lambdaexpressionandmethodreference)
 
 ---
