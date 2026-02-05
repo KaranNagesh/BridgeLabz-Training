@@ -607,3 +607,20 @@ Solved 5 real-world, scenario-based Java problems Integrated Collections Framewo
 [Day - 32 – Collections Scenario-Based Problem](https://github.com/KaranNagesh/BridgeLabz-Training)
 
 ---
+
+# Day 33 – JSON Data Handling, Scenario-Based Problems (Collections, Generics, I/O & Regex)
+
+
+📅 (Date: 24-Jan-2026) Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
+Covered key concepts including:
+
+Reading and writing CSV files using BufferedReader/Writer
+Handling CSV data efficiently with OpenCSV
+Mapping CSV records to Java objects (CsvToBean)
+Validating CSV fields using regex and data checks
+
+Solved 5 real-world, scenario-based Java problems Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions Designed solutions close to enterprise-level applications Focused on file processing, data validation, parsing, indexing, and summarization
+🔗 Code Link:
+[Day - 33 JSOM Handling Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams/gcr-code-base/javaiostreams/src/main/java/javaiostreams/com/json)
+
+---
