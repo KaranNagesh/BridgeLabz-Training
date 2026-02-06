@@ -651,3 +651,36 @@ Focused on practical usage of Annotations, Reflection, CSV & JSON data handling,
 [Day - 34 Lambda & Method Reference Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/lambdaexpressionandmethodreference)
 
 ---
+# Day 35 – Interfaces & Functional Interfaces in Java, and Stream API Practice (Real-Time Employee Scenarios)
+📅 (Date: 28-Jan-2026) Practiced interface-based design and modern Java interface features.
+Covered:
+
+Defining and implementing interfaces
+Interface best practices and ISP
+Default and static methods
+Method conflict resolution
+Polymorphism and decoupling
+
+Functional Interfaces:
+SAM concept and @FunctionalInterface
+Built-in functional interfaces
+Custom functional interfaces
+Lambda compatibility (SAM conversion)
+
+Also explored marker interfaces vs annotations and common design pitfalls. Practiced Java 8 Stream API using a real-world Employee dataset to solve analytical and aggregation-based problems.
+Worked on scenarios involving:
+Counting male/female employees (overall & department-wise)
+Extracting department names and grouping employees by department
+Calculating average age and average salary (gender-wise & department-wise)
+Finding highest, lowest, second/third highest & lowest paid employees
+Identifying most experienced and youngest employees
+Filtering employees based on joining year and salary thresholds
+Retrieving top/bottom 5 highest and lowest paid employees
+Computing total and average salary of the organization
+Focused on effective usage of:
+filter, map, sorted, limit
+Collectors.groupingBy, partitioningBy, averagingDouble, counting
+Comparator chaining and Optional handling
+🔗 Code Link:
+[Day - 35 Interfaces Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/FuntionalInterface)
+[Day - 35 Stream API Employee Scenarios](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/FuntionalInterface)
