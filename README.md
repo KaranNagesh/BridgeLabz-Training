@@ -684,3 +684,33 @@ Comparator chaining and Optional handling
 🔗 Code Link:
 [Day - 35 Interfaces Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/FuntionalInterface)
 [Day - 35 Stream API Employee Scenarios](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/FuntionalInterface)
+
+---
+## Day 36 – Java Stream API & Parallel Streams
+*📅 (Date: 29-Jan-2026)*
+
+Practiced functional-style data processing using the Java Stream API.
+
+
+Covered:
+
+  - Stream pipeline structure (source → intermediate → terminal)
+  - Intermediate operations: filter, map, sorted, distinct
+  - Terminal operations: collect, forEach, count
+  - Lazy evaluation and stateless vs stateful operations
+  - Ordered vs unordered streams
+
+  #### Parallel Streams:
+
+  - parallelStream() vs sequential stream
+  - ForkJoinPool and multi-threaded execution
+  - Order handling with forEachOrdered()
+  - Performance considerations and best practices
+
+
+Also practiced forEach() with lambdas and method references.
+
+🔗 Code Link:
+[Day - 36 Stream API Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/StreamAPI)
+
+---
