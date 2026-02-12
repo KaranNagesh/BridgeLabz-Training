@@ -1,0 +1,49 @@
+-- Creating an Account table
+Create table Account(
+ id int,
+ balance int
+ 
+ );
+ 
+ -- Inserting data in account table
+ Insert into Account(id,balance)
+ values(1,5000),(2,4000);
+ 
+ -- Printing all records from Account
+ select * from Account;
+ 
+ 
+ -- Creating transaction history table
+ CREATE TABLE transaction_history (
+    txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    account_id INT,
+    amount DECIMAL(10,2),
+    txn_type VARCHAR(10),
+    txn_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Performing transaction between 2 accounts
+START TRANSACTION;
+
+UPDATE account SET balance = balance - 1000 WHERE id = 1;
+
+INSERT INTO transaction_history
+(account_id, amount, txn_type)
+VALUES (1, 1000, 'DEBIT');
+
+UPDATE account SET balance = balance + 1000 WHERE id = 2;
+
+INSERT INTO transaction_history
+(account_id, amount, txn_type)
+VALUES (2, 1000, 'CREDIT');
+COMMIT;
+
+-- Checking transaction history
+SELECT * FROM transaction_history
+WHERE account_id = 1;
+
+SELECT * FROM transaction_history
+WHERE account_id = 2;
+
+ -- Printing all records from Account
+  select * from Account;
