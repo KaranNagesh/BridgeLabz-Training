@@ -1,0 +1,32 @@
+-- Creating an Employee table
+CREATE TABLE Employee (
+    id INT ,
+    name VARCHAR(50),
+    age INT,
+    salary INT
+);
+
+---Inserting data in employee table
+insert into employee values
+(101,'Karan' , 84000, 'IT',21),
+(102, 'Ansh', 82000 , 'Sales' , 21 ),
+(103, 'Pranshi' , 79000, 'HR',22),
+(104, 'Arif' , 81000, 'Backend',24),
+(105, 'Abuzzar' , 73000, 'Marketing',23);
+
+
+-- Printing all the records from employee table
+select * from employee
+
+-- Updating the salary of employee by id
+update Employee
+set salary = 100000
+where id = 101;
+
+-- Deleting the record of employee by id
+delete from Employee
+where id = 103;
+
+-- Searching employee by  name
+select * from Employee
+Where name = "Karan";
