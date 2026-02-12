@@ -1,0 +1,54 @@
+
+CREATE TABLE Book (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(100),
+    author VARCHAR(50),
+    category VARCHAR(50),
+    total_copies INT,
+    available_copies INT
+);
+
+CREATE TABLE Student (
+    student_id INT PRIMARY KEY,
+    student_name VARCHAR(50),
+    course VARCHAR(50)
+);
+
+INSERT Student values
+(689,"Karan","AIML"),
+(329,"Ansh","CSE");
+
+select * from student;
+
+
+
+CREATE TABLE Borrow (
+    borrow_id INT PRIMARY KEY AUTO_INCREMENT,
+    student_id INT,
+    book_id INT,
+    borrow_date DATE,
+    return_date DATE,
+    actual_return_date DATE,
+    fine DECIMAL(10,2)
+);
+
+INSERT INTO Book VALUES
+(1, 'Java Programming', 'James Gosling', 'Programming', 5, 5);
+
+INSERT INTO Book VALUES
+(2, 'C++', 'Charls bage', 'Programming', 7, 5);
+
+
+Update book
+Set available_copies = available_copies - 1
+where book_id = 2;
+
+Insert into Borrow (student_id, book_id, borrow_date, return_date)
+values(101,1,curdate(), date_add(curdate(), Interval 14 day));
+
+SELECT * FROM Borrow
+WHERE student_id = 101;
+
+
+SELECT * FROM Book
+WHERE available_copies > 0;
