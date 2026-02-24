@@ -714,3 +714,172 @@ Also practiced forEach() with lambdas and method references.
 [Day - 36 Stream API Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/StreamAPI)
 
 ---
+
+### Day 37 – Collectors in Java Stream API
+📅 (Date: 30-Jan-2026)
+
+Explored the role and capabilities of Collectors used with the Stream.collect() method for data aggregation and transformation.
+
+<br>Covered:
+- Converting streams to collections using toList(), toSet(), toMap()
+- Transforming and aggregating stream data
+- Grouping elements using groupingBy()
+- Partitioning data using partitioningBy()
+- Joining stream elements into strings with joining()
+- Generating statistics using summarizingInt()
+
+<br><br>Practiced real-world scenarios including grouping, partitioning, mapping, and statistical summaries using Collectors.
+
+### 🔗 Code Link:
+[Day - 37 Collectors Practice](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/Collectors)
+
+
+
+### Day 38 – Smart City Transport & Service Management System (Java 8)
+📅 (Date: 31-Jan-2026)
+Designed a real-world **Smart City Transport & Service Management System** leveraging core **Java 8 features** to build a modern, extensible, and clean architecture.
+<br>Worked on:
+- Using **Lambda Expressions** to filter and sort transport schedules (time, fare, availability)
+- Applying **Method References** for logging, printing services, and utility method calls
+- Designing **interfaces with default & static methods** for shared transport behavior
+- Implementing **Stream API + forEach()** to process and display live transport data
+- Using **Collectors** (`groupingBy`, `partitioningBy`, `summarizingDouble`) for analytics and revenue reports
+- Implementing **Functional Interfaces** with lambdas for dynamic fare calculation
+- Using **Marker Interfaces** to prioritize emergency services (ambulance, fire services)
+<br>Outcome:
+- Enabled real-time filtering, grouping, and summarization of transport data  
+- Built a system easily extensible to new services (Ferry, Bike Rental) via interfaces  
+- Demonstrated clean, scalable, and enterprise-ready Java 8 design principles
+### 🔗 Code Link:
+[Day - 38 Java 8 workshop](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/java8programming/src/Workshop)
+
+
+### Day 39 – Design Principles & GoF Design Patterns
+📅 (Date: 02-Feb-2026)
+
+Studied **core design principles** for building clean, maintainable, and scalable Java applications.
+
+<br>Covered:
+- SOLID principles (SRP, OCP, LSP, ISP, DIP)
+- DRY, KISS, YAGNI principles
+
+<br>Introduced **GoF Design Patterns**:
+- Pattern categories overview
+- Singleton, Factory, Observer, Builder
+
+<br>Additional:
+- Basics of UML design
+- Relationship between design principles and patterns
+
+<br>Outcome:
+- Strong foundation in object-oriented design
+- Better understanding of scalable and reusable system design
+
+### 🔗 Code Link:
+[Day - 39 Design Pattern](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesginPatternConcept/src/com/designpattern/smartlibrarymanagement)
+
+
+
+### Day 40 – Java Multithreading Fundamentals
+📅 (Date: 03-Feb-2026)
+
+Studied **core concepts of Java Multithreading** and thread management.
+
+<br>Covered:
+- Difference between **Process vs Thread** and benefits/limitations of multithreading
+- **Thread lifecycle**: New, Runnable, Running, Blocked, Terminated
+- Creating threads using **Thread class** and **Runnable interface**
+- Important Thread methods: start(), run(), sleep(), join(), yield(), isAlive()
+- **User vs Daemon threads**, thread priority, interruption handling
+- Deprecated thread methods (stop, suspend, resume) and best practices
+
+<br>Outcome:
+- Clear understanding of concurrent execution
+- Ability to create, control, and manage threads safely in Java
+### 🔗 Code Link:
+[Day - 40 Multi-threading](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesginPatternConcept/src/com/multithreading)
+
+
+### Day 41 – Java 8 Streams Practice and Problem Solving
+📅 (Date: 04-Feb-2026)
+
+Solved multiple real-world and logical problems using the Java 8 Stream API to strengthen functional programming skills.
+
+<br>Covered:
+- Filtering, mapping, sorting, and collecting data using streams
+- Using Collectors such as groupingBy(), partitioningBy(), counting(), and summarizing
+- Finding highest, lowest, and nth highest values using streams
+- Performing aggregations like average, sum, and count efficiently
+- Applying method references and lambda expressions in stream pipelines
+- Improving code readability and performance using functional-style programming
+
+<br>Outcome:
+- Strengthened problem-solving skills using Java 8 Streams
+- Improved ability to process and analyze collections efficiently
+### 🔗 Code Link:
+[Day - 41 Java8 Scenario](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/Java8ScenarioBased/src/com/studentoperation)
+
+
+### Day 42 – MySQL Indexing and Query Optimization
+📅 (Date: 06-Feb-2026)
+
+Learned **MySQL Indexing concepts** to improve database query performance and efficiency.
+
+<br>Covered:
+- Purpose of indexing and its impact on SELECT, JOIN, and ORDER BY performance
+- Types of indexes: Primary Key, Unique, Regular, Composite, Full-Text, and Covering Index
+- How B-Tree indexes work and difference between Index Scan vs Table Scan
+- Creating, viewing, renaming, and dropping indexes using CREATE INDEX and ALTER TABLE
+- Query performance analysis using EXPLAIN and composite index optimization
+- Index best practices, leftmost prefix rule, and avoiding misuse (functions, over-indexing)
+
+<br>Outcome:
+- Ability to design efficient database indexes
+- Improved understanding of query optimization and performance tuning
+### 🔗 Code Link:
+[Day - 42 MySql](https://github.com/KaranNagesh/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/mysqlconcepts/src/mysqlconcepts/com/mysql)
+
+
+### Day 43 – Java 8 Streams Practice and Problem Solving
+📅 (Date: 07-Feb-2026)
+
+Solved multiple real-world and logical problems using the Java 8 Stream API to strengthen functional programming skills.
+
+<br>Covered:
+- Filtering, mapping, sorting, and collecting data using streams
+- Using Collectors such as groupingBy(), partitioningBy(), counting(), and summarizing
+- Finding highest, lowest, and nth highest values using streams
+- Performing aggregations like average, sum, and count efficiently
+- Applying method references and lambda expressions in stream pipelines
+- Improving code readability and performance using functional-style programming
+
+<br>Outcome:
+- Strengthened problem-solving skills using Java 8 Streams
+- Improved ability to process and analyze collections efficiently
+### 🔗 Code Link:
+[Day - 43 Java8 Scenario](https://github.com/KaranNagesh/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeeoperation)
+
+
+
+### Day 44 – JDBC Architecture and Database Connectivity
+📅 (Date: 09-Feb-2026)
+
+Learned Java Database Connectivity (JDBC) for interacting with relational databases and performing persistent data operations.
+
+<br>Covered:
+- Understanding JDBC architecture and its components
+- Establishing database connection using DriverManager and Connection
+- Performing CRUD operations (Create, Read, Update, Delete)
+- Difference between Statement and PreparedStatement and their usage
+- Managing transactions using commit() and rollback()
+- Introduction to connection pooling for efficient resource management
+- JDBC best practices for performance, security, and maintainability
+
+<br>Outcome:
+- Gained practical knowledge of connecting Java applications with databases
+- Learned efficient and secure database interaction using JDBC
+### 🔗 Code Link:
+[Day - 44 JDBC](https://github.com/KaranNagesh/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/mysqlconcepts/src/mysqlconcepts/com/mysql)
+
+
+---
